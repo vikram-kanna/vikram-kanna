@@ -2,7 +2,7 @@
 
 # Hi there, I'm Vikram Kannan 👋
 
-### Aspiring AI & ML Engineer · Linux & Wayland Enthusiast
+### Aspiring AI & ML Engineer · Linux Enthusiast
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=00A8E8&center=true&vCenter=true&width=500&lines=Building+ML+models+that+actually+ship;Ricing+minimal%2C+distraction-free+Linux+setups;Always+learning%2C+always+building" alt="Typing SVG" />
 
