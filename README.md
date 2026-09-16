@@ -1,62 +1,87 @@
 <div align="center">
 
-# Hi there, I'm Vikram Kannan 👋
+# Vikram Kannan
 
-### Aspiring AI & ML Engineer · Linux Enthusiast
+### AI & Machine Learning Engineer
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=00A8E8&center=true&vCenter=true&width=500&lines=Building+ML+models+that+actually+ship;Ricing+minimal%2C+distraction-free+Linux+setups;Always+learning%2C+always+building" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=58A6FF&center=true&vCenter=true&width=520&lines=Building+practical+AI%2FML+systems;Training+models+that+solve+real+problems;Also+ricing+minimal+Linux+setups" alt="Typing SVG" />
 
-[![GitHub followers](https://img.shields.io/github/followers/vikram-kanna?style=flat&logo=github&color=00A8E8&labelColor=1a1a1a)](https://github.com/vikram-kanna?tab=followers)
-<!-- Add real links once available -->
-<!-- [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](your-linkedin-url) -->
-<!-- [![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:your-email) -->
+`Python` · `Machine Learning` · `Deep Learning` · `Linux`
+
+<br>
+
+<a href="https://github.com/vikram-kanna">
+<img src="https://img.shields.io/badge/GitHub-0d1117?style=for-the-badge&logo=github&logoColor=58A6FF" />
+</a>
+&nbsp;
+<a href="YOUR_LINKEDIN_URL">
+<img src="https://img.shields.io/badge/LinkedIn-0d1117?style=for-the-badge&logo=linkedin&logoColor=58A6FF" />
+</a>
 
 </div>
 
 <br>
 
-## 🎯 Featured AI/ML Work
+## About
 
-<!--
-Replace each placeholder below with a real project once pushed.
-Format tip: bold repo name as link, one-line problem statement, then a result/metric if you have one.
--->
+```text
+AI/ML Engineer
+│
+├── Machine Learning
+├── Deep Learning
+├── Python
+├── Linux
+└── Open Source
+```
+
+I enjoy building things that are **useful, measurable, and actually work** — from machine-learning applications to lightweight Linux tooling.
+
+Currently focused on strengthening my skills in **AI, ML, deep learning, and software engineering**.
+
+<br>
+
+## Featured Projects
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
-### 🔹 [Project Name 1](#)
-_(one-line description of the problem it solves)_
+**🤖 AI / ML — [Project Name](#)**
 
-**Stack:** PyTorch · Pandas · scikit-learn
-**Result:** _(e.g. 92% accuracy / deployed as API / etc.)_
+A practical machine-learning project that solves **[problem]** using **[approach]**.
+
+`Python` `PyTorch` `Pandas`
+**Result:** `add your actual metric`
 
 </td>
 <td width="50%" valign="top">
 
-### 🔹 [Project Name 2](#)
-_(one-line description of the problem it solves)_
+**🧠 Deep Learning — [Project Name](#)**
 
-**Stack:** TensorFlow · NumPy
-**Result:** _(add your key result here)_
+An AI application designed to **[brief description]**.
+
+`Python` `TensorFlow` `NumPy`
+**Result:** `add your actual result`
 
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
 
-### 🔹 [Project Name 3](#)
-_(one-line description of the problem it solves)_
+**📊 Machine Learning — [Project Name](#)**
 
-**Stack:** Python · scikit-learn
-**Result:** _(add your key result here)_
+A data-driven project focused on **[problem statement]**.
+
+`Python` `scikit-learn` `Pandas`
+**Result:** `add your actual result`
 
 </td>
 <td width="50%" valign="top">
 
-### 🔹 More coming soon
-Currently exploring: _(e.g. transformers, computer vision, MLOps)_
+**🔬 Currently Exploring**
+
+`Transformers` `Computer Vision`
+`NLP` `MLOps` `Model Deployment`
 
 </td>
 </tr>
@@ -64,20 +89,22 @@ Currently exploring: _(e.g. transformers, computer vision, MLOps)_
 
 <br>
 
-## 🖥 Also Building — Linux Ricing & Desktop Tooling
+## 🐧 Linux Projects
+
+I also build minimal Linux configurations and desktop utilities.
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
 **[waybar-minimal](https://github.com/vikram-kanna/waybar-minimal)**
-Clean, minimal Waybar config for Wayland compositors
+Minimal Waybar configuration for Wayland compositors.
 
 </td>
 <td width="50%" valign="top">
 
 **[rofi-minimal](https://github.com/vikram-kanna/rofi-minimal)**
-Minimal, aesthetic Rofi menu theme
+Clean and minimal Rofi theme.
 
 </td>
 </tr>
@@ -85,13 +112,13 @@ Minimal, aesthetic Rofi menu theme
 <td width="50%" valign="top">
 
 **[wlogout-minimal](https://github.com/vikram-kanna/wlogout-minimal)**
-Minimal logout menu for Wayland compositors
+Minimal logout menu for Wayland.
 
 </td>
 <td width="50%" valign="top">
 
 **[kitty-minimal-x11](https://github.com/vikram-kanna/kitty-minimal-x11)**
-Minimal Kitty terminal config for X11
+Minimal Kitty terminal configuration for X11.
 
 </td>
 </tr>
@@ -103,39 +130,34 @@ Minimal Kitty terminal config for X11
 
 <div align="center">
 
-<!-- Trim this list to tools you actually use -->
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![scikit--learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-<br>
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+**AI / Machine Learning**
+
+<img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,sklearn&perline=4" />
+
+<br><br>
+
+**Operating Systems**
+
+<img src="https://skillicons.dev/icons?i=arch,ubuntu,windows&perline=3" />
+
+<br><br>
+
+**Systems & Development**
+
+<img src="https://skillicons.dev/icons?i=linux,bash,git,vscode&perline=4" />
 
 </div>
 
-<br>
-
-## 📊 GitHub Stats
+## 📊 GitHub Activity
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=vikram-kanna&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats"/>
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vikram-kanna&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages"/>
+<a href="https://github.com/vikram-kanna">
+  <img src="https://img.shields.io/badge/Explore%20My%20Projects-0d1117?style=for-the-badge&logo=github&logoColor=58A6FF" />
+</a>
 
-</div>
+<br><br>
 
-<br>
-
-<div align="center">
-
-### 📫 Let's Connect
-<!-- Fill these in with real links, or delete the ones you don't use -->
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/vikram-kanna)
-
-**⭐ Open to AI/ML Engineer opportunities — feel free to explore my work above!**
+<sub>AI · Machine Learning · Linux · Open Source</sub>
 
 </div>
